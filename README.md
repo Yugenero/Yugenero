@@ -1,6 +1,6 @@
 ## Hey 👋
 
-I'm [Nelson](https://nelsonrodriguez.me/), a Software Engineer from Atlanta, GA
+I'm [Nelson](https://nelsonrodriguez.me/), a Software Engineer + Developer from Atlanta, GA
 
 --- 
 
