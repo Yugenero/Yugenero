@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey 👋
 
-<!--
-**Yugenero/Yugenero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Nelson](https://nelsonrodriguez.me/), a Software Engineer from Atlanta, GA
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm primarily interested in Full-stack software development, but you can also find me working with a variety of software development paradigms
+When I'm not working or programming, you can usually find me at the Gym or Running. 
+
+---
+
+🔭 I’m currently working on A Transcript analyzer that uses NLP for YouTube video sentiment analysis
+🌱 I’m currently learning Kubernetes, Docker, AI/ML Mathematics/Technologies
+
