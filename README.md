@@ -8,7 +8,7 @@ I'm primarily interested in **Full-stack software development**, but my interest
 
 *I'm fervently seeking an entry-level software engineering position.*
 
-When I'm not working or programming, I usually go on a liberating run around the park, or In solitude with my own thoughts. 
+When I'm not working or programming, I usually go out and run around the park, or in solitude with my own thoughts. 
 
 ---
 
