@@ -6,7 +6,7 @@ I'm [Nelson](https://nelsonrodriguez.me/), an Aspiring Software Engineer and Dev
 
 I'm primarily interested in **Full-stack software development**, but my interest and expertise extend to anything adjacent to software. 
 
-*I'm fervently seeking an entry-level software engineering position.*
+*I'm currently seeking entry-level software engineering positions.*
 
 When I'm not working or programming, I usually go out and run around the park, or in solitude with my own thoughts. 
 
