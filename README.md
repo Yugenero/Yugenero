@@ -1,5 +1,3 @@
-## Hey 👋
-
 I'm [Nelson](https://nelsonrodriguez.me/), an Aspiring Software Engineer and Developer from Atlanta, GA
 
 --- 
