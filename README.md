@@ -6,7 +6,7 @@ I'm primarily interested in **Fullstack software development**, but my interest 
 
 *I'm currently seeking entry-level software engineering positions.*
 
-When I'm not working or programming, I usually go out and run around the park, or in solitude with my own thoughts. 
+When I'm not working or programming, I'm usually outside, in the gym, or reading. 
 
 ---
 
