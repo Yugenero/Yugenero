@@ -2,7 +2,7 @@ I'm [Nelson](https://nelsonrodriguez.me/), an Aspiring Software Engineer and Dev
 
 --- 
 
-I'm primarily interested in **Fullstack software development**, but my interest and expertise extend to anything software adjacent. 
+I'm primarily interested in **Fullstack Software Development**, but my interest and expertise extend to anything software adjacent. 
 
 *I'm currently seeking entry-level software engineering positions.*
 
