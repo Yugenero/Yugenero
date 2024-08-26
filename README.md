@@ -1,4 +1,4 @@
-I'm [Nelson](https://nelsonrodriguez.me/), an Aspiring Software Engineer and Developer from Atlanta, GA
+I'm [Nelson](https://nelsonrodriguez.me/), an Software Engineer and Developer from Atlanta, GA
 
 --- 
 
