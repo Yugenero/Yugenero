@@ -8,7 +8,7 @@ When I'm not working or programming, I'm usually outside, in the gym, or reading
 
 ---
 
-What I'm currently working on: A Transcript analyzer utilizing NLP for YouTube video transcript and comment sentiment analysis.
+What I'm currently working on: A Transcript analyzer utilizing NLP for YouTube video transcript and comment sentiment analysis with @fmartinez.
 
 What I'm currently learning: Kubernetes, Docker, AI/ML Mathematics/Technologies
 
