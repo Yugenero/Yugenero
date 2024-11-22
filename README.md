@@ -1,4 +1,4 @@
-I'm [Nelson](https://nelsonrodriguez.me/), an Software and QA Engineer @[CivicDX](https://www.civicdx.com/) in Atlanta, GA
+I'm [Nelson](https://nelsonrodriguez.me/), an Software and QA Engineer @[Civic DX](https://www.civicdx.com/) in Atlanta, GA
 
 --- 
 
