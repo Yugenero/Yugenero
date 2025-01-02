@@ -2,7 +2,7 @@ I'm [Nelson](https://nelsonrodriguez.me/), an Software and QA Engineer @[Civic D
 
 --- 
 
-I'm primarily interested in **Fullstack Software Development and AI Engineering**, but my interest and expertise extend to anything software and tech adjacent. 
+I'm primarily interested in **Fullstack Software Development and AI Engineering**, but my interests and expertise extend to anything software and tech adjacent. 
 
 When I'm not working or programming I'm usually outside, in the gym, or reading. 
 
