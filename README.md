@@ -8,7 +8,7 @@ When I'm not working or programming I'm usually outside touching grass, in the g
 
 ---
 
-What I'm currently working on: A Transcript analyzer utilizing NLP for YouTube video transcript and comment sentiment analysis with @fmartinez.
+What I'm currently working on: An AI-powered, swipe based car-buyer matching application for car buyers!
 
 What I'm currently learning: Kubernetes, Docker, AI/ML Mathematics/Technologies
 
