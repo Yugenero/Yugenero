@@ -4,7 +4,7 @@ I'm [Nelson](https://nelsonrodriguez.me/), a Software Engineer @[Civic DX](https
 
 I'm primarily interested in **Fullstack Software Development and AI Engineering**, but my interests and expertise extend to anything software and tech adjacent. 
 
-When I'm not working or programming I'm usually outside, in the gym, or reading. 
+When I'm not working or programming I'm usually outside running, in the gym, or reading. 
 
 ---
 
