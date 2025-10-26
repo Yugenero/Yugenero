@@ -8,7 +8,7 @@ When I'm not working or programming I'm usually outside running, in the gym, or 
 
 ---
 
-What I'm currently working on: An AI-powered life counselor
+I'm currently building Zenith: helping people navigate the impending identity and career uncertainty that AI is creating. Think strategic life planning for an unpredictable future.
 
 What I'm currently learning: Kubernetes, Docker, AI/ML Mathematics/Technologies
 
