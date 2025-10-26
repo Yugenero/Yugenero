@@ -1,4 +1,4 @@
-I'm [Nelson](https://nelsonrodriguez.me/), a Software Engineer @[Civic DX](https://www.civicdx.com/) in Atlanta, GA
+I'm [Nelson](https://nelsonrodriguez.me/), an Creator + Engineer currently based in Atlanta, GA
 
 --- 
 
