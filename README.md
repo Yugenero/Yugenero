@@ -4,7 +4,7 @@ Engineer + Content Creator currently based in Atlanta, GA
 
 --- 
 
-Minterests and expertise extend to anything software and tech adjacent. I love creating and building things into tools people rely on 
+My work and interests extend to anything and everything software and tech adjacent. I love creating and building things into tools people rely on 
 
 When I'm not working or programming I'm usually outside running, in the gym, or reading. 
 
