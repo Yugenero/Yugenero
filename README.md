@@ -1,4 +1,4 @@
-Hey, I'm [Nelson](https://nelsonrodriguez.me/)!
+Hey, I'm [Nelson](https://nelsonrodriguez.me/)
 
 Engineer + Content Creator currently based in Atlanta, GA
 
