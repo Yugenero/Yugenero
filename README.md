@@ -4,7 +4,7 @@ Engineer + Content Creator currently based in Atlanta, GA
 
 --- 
 
-I'm primarily interested in **Fullstack Software Development and AI Engineering**, but my interests and expertise extend to anything software and tech adjacent. 
+Minterests and expertise extend to anything software and tech adjacent. I love creating and building things into tools people rely on 
 
 When I'm not working or programming I'm usually outside running, in the gym, or reading. 
 
