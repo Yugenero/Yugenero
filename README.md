@@ -1,6 +1,6 @@
 Hey, I'm [Nelson](https://nelsonrodriguez.me/)
 
-Engineer + Content Creator currently based in Atlanta, GA
+Engineer + Creator currently based in Atlanta, GA
 
 --- 
 
